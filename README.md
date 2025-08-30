@@ -3,7 +3,7 @@
 
 ## Nombre del proyecto.
 
-- **Sistema de Gestión de Reserva de Boletos Aéreos – plane tickets**
+- **Sistema de Gestión de Reserva de Boletos Aéreos – Airtickets**
 
 ## Integrantes.
 
